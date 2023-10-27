@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Gratuity Guide            |  -    The program simplifies the process of determining the final amount a customer needs to pay after dining.         | https://github.com/UMAR-FAWAZ/Gratuity-Guide-      |
+| 2 |  -     Grading-System        |  -  This system takes a numeric score as input and assigns a letter grade based on the score.           | https://github.com/UMAR-FAWAZ/Grading-System      |
+| 3 |  -     GPA-calculator        |  -     This program will take a list of courses, their credit hours, and the letter grades received, and then calculate the GPA. It should ask for course details repeatedly until you enter "done".        | https://github.com/UMAR-FAWAZ/GPA-calculator-     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
